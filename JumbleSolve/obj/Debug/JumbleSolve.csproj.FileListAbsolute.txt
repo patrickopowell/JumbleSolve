@@ -1,0 +1,6 @@
+c:\users\patrickp\documents\visual studio 2015\Projects\JumbleSolve\JumbleSolve\bin\Debug\JumbleSolve.exe.config
+C:\Users\patrickp\Documents\Visual Studio 2015\Projects\JumbleSolve\JumbleSolve\bin\Debug\JumbleSolve.exe
+C:\Users\patrickp\Documents\Visual Studio 2015\Projects\JumbleSolve\JumbleSolve\bin\Debug\JumbleSolve.pdb
+C:\Users\patrickp\Documents\Visual Studio 2015\Projects\JumbleSolve\JumbleSolve\obj\Debug\JumbleSolve.csprojResolveAssemblyReference.cache
+C:\Users\patrickp\Documents\Visual Studio 2015\Projects\JumbleSolve\JumbleSolve\obj\Debug\JumbleSolve.exe
+C:\Users\patrickp\Documents\Visual Studio 2015\Projects\JumbleSolve\JumbleSolve\obj\Debug\JumbleSolve.pdb
