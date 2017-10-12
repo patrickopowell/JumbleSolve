@@ -14,17 +14,14 @@ namespace JumbleSolve
         public class Key
         {
             public string key;
-            public int count;
 
-            public Key(string str, int i)
+            public Key(string str)
             {
                 key = str;
-                count = i;
             }
         }
 
         private Dictionary<Key, string> dictionary;
-        private int count = 0;
 
         public JumbleSolve()
         {
@@ -85,7 +82,7 @@ namespace JumbleSolve
                 Array.Sort(str);
                 string key = new string(str);
 
-                Key insert = new Key(key, count++);
+                Key insert = new Key(key);
 
                 if (!dictionary.ContainsKey(insert))
                     dictionary.Add(insert, line);
